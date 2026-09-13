@@ -1,0 +1,10 @@
+[
+ ["01_base","faiz"], ["12_eski_agi","faiz"], ["93_faiz_bas_olay","faiz"],
+ ["87_yetistirme_oran5","kisi.ana"], ["87_yetistirme_oran5","kisi.baba"],
+ ["88_yetistirme_oran20","kisi.ana"], ["88_yetistirme_oran20","kisi.baba"],
+ ["89_yetistirme_oran20_anne","kisi.ana"], ["89_yetistirme_oran20_anne","kisi.baba"],
+ ["90_farazi_28_yasli_bekar","kisi.ana"], ["90_farazi_28_yasli_bekar","kisi.baba"],
+ ["94_kadin_bekar_farazi","kisi.ana"], ["94_kadin_bekar_farazi","kisi.baba"],
+ ["91_bakici_oransiz_85","once.3"], ["92_gig_aylik_baz","once.3"], ["55_gig","once.4"],
+ ["76_yetistirme_yok","kisi.baba"], ["81_genc_farazi","kisi.baba"]
+]

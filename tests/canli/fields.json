@@ -1,0 +1,982 @@
+[
+{
+"t": "radio",
+"n": "RadioGroup4",
+"v": "Radio9",
+"chk": false,
+"id": "Radio9"
+},
+{
+"t": "radio",
+"n": "RadioGroup4",
+"v": "Radio10",
+"chk": true,
+"id": "Radio10"
+},
+{
+"t": "radio",
+"n": "RadioGroup40",
+"v": "Radio24",
+"chk": true,
+"id": "Radio24"
+},
+{
+"t": "radio",
+"n": "RadioGroup40",
+"v": "Radio25",
+"chk": false,
+"id": "Radio25"
+},
+{
+"t": "text",
+"n": "tanzimtarihF",
+"v": "1.01.1900",
+"chk": false,
+"id": "TanzimTarihText"
+},
+{
+"t": "radio",
+"n": "RadioGroup",
+"v": "Radio1",
+"chk": true,
+"id": "Radio1"
+},
+{
+"t": "radio",
+"n": "RadioGroup",
+"v": "Radio11",
+"chk": false,
+"id": "Radio11"
+},
+{
+"t": "text",
+"n": "teknikfaizF",
+"v": "0,00",
+"chk": false,
+"id": "TeknikFaizText"
+},
+{
+"t": "checkbox",
+"n": "Checkboxtamhayat",
+"v": "on",
+"chk": false,
+"id": "tamhayatid"
+},
+{
+"t": "radio",
+"n": "RadioGroup3",
+"v": "Radio6",
+"chk": false,
+"id": "Radio6"
+},
+{
+"t": "radio",
+"n": "RadioGroup3",
+"v": "Radio7",
+"chk": false,
+"id": "Radio7"
+},
+{
+"t": "radio",
+"n": "RadioGroup3",
+"v": "Radio8",
+"chk": true,
+"id": "Radio8"
+},
+{
+"t": "radio",
+"n": "RadioGroup3",
+"v": "Radio83",
+"chk": false,
+"id": "Radio83"
+},
+{
+"t": "radio",
+"n": "RadioGroup2",
+"v": "Radio3",
+"chk": true,
+"id": "Radio3"
+},
+{
+"t": "radio",
+"n": "RadioGroup2",
+"v": "Radio4",
+"chk": false,
+"id": "Radio4"
+},
+{
+"t": "radio",
+"n": "RadioGroup2",
+"v": "Radio5",
+"chk": false,
+"id": "Radio5"
+},
+{
+"t": "checkbox",
+"n": "Checkboxagi",
+"v": "on",
+"chk": false,
+"id": "Checkboxagi"
+},
+{
+"t": "text",
+"n": "DavaliKusurF",
+"v": "100",
+"chk": false,
+"id": "Text3"
+},
+{
+"t": "text",
+"n": "OlayTarF",
+"v": "1.01.2016",
+"chk": false,
+"id": "Text4"
+},
+{
+"t": "text",
+"n": "DogTarF",
+"v": "1.01.1998",
+"chk": false,
+"id": "Text5"
+},
+{
+"t": "text",
+"n": "KendiCinsF",
+"v": "E",
+"chk": false,
+"id": "Text15"
+},
+{
+"t": "text",
+"n": "kazaliisimF",
+"v": "",
+"chk": false,
+"id": "Text1"
+},
+{
+"t": "text",
+"n": "RapTarF",
+"v": "13.09.2026",
+"chk": false,
+"id": "Text6"
+},
+{
+"t": "text",
+"n": "MaasF",
+"v": "1.300,99",
+"chk": false,
+"id": "inputmaas"
+},
+{
+"t": "text",
+"n": "esisimF",
+"v": "Eþ",
+"chk": false,
+"id": "esisimF"
+},
+{
+"t": "text",
+"n": "birisimF",
+"v": "1.Çocuk",
+"chk": false,
+"id": "birisimF"
+},
+{
+"t": "text",
+"n": "ikiisimF",
+"v": "2.Çocuk",
+"chk": false,
+"id": "ikiisimF"
+},
+{
+"t": "text",
+"n": "ucisimF",
+"v": "3.Çocuk",
+"chk": false,
+"id": "ucisimF"
+},
+{
+"t": "text",
+"n": "dortisimF",
+"v": "4.Çocuk",
+"chk": false,
+"id": "dortisimF"
+},
+{
+"t": "text",
+"n": "besisimF",
+"v": "5.Çocuk",
+"chk": false,
+"id": "besisimF"
+},
+{
+"t": "text",
+"n": "anaisimF",
+"v": "Anne",
+"chk": false,
+"id": "anaisimF"
+},
+{
+"t": "text",
+"n": "babaisimF",
+"v": "Baba",
+"chk": false,
+"id": "babaisimF"
+},
+{
+"t": "checkbox",
+"n": "Checkboxes",
+"v": "on",
+"chk": false,
+"id": "Checkboxes"
+},
+{
+"t": "checkbox",
+"n": "Checkbox1",
+"v": "on",
+"chk": false,
+"id": "Checkbox1"
+},
+{
+"t": "checkbox",
+"n": "Checkbox2",
+"v": "on",
+"chk": false,
+"id": "Checkbox2"
+},
+{
+"t": "checkbox",
+"n": "Checkbox3",
+"v": "on",
+"chk": false,
+"id": "Checkbox3"
+},
+{
+"t": "checkbox",
+"n": "Checkbox4",
+"v": "on",
+"chk": false,
+"id": "Checkbox4"
+},
+{
+"t": "checkbox",
+"n": "Checkbox5",
+"v": "on",
+"chk": false,
+"id": "Checkbox5"
+},
+{
+"t": "checkbox",
+"n": "Checkbox6",
+"v": "on",
+"chk": false,
+"id": "Checkbox6"
+},
+{
+"t": "checkbox",
+"n": "Checkbox7",
+"v": "on",
+"chk": false,
+"id": "Checkbox7"
+},
+{
+"t": "text",
+"n": "EsDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Text9"
+},
+{
+"t": "text",
+"n": "BirDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Text10"
+},
+{
+"t": "text",
+"n": "IkiDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Text11"
+},
+{
+"t": "text",
+"n": "UcDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Text12"
+},
+{
+"t": "text",
+"n": "DortDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Text13"
+},
+{
+"t": "text",
+"n": "BesDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Text14"
+},
+{
+"t": "text",
+"n": "AnaDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Textanadog"
+},
+{
+"t": "text",
+"n": "BabaDogTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "Textbabadog"
+},
+{
+"t": "text",
+"n": "BirCinsF",
+"v": "E",
+"chk": false,
+"id": "Text16"
+},
+{
+"t": "text",
+"n": "IkiCinsF",
+"v": "E",
+"chk": false,
+"id": "Text17"
+},
+{
+"t": "text",
+"n": "UcCinsF",
+"v": "E",
+"chk": false,
+"id": "Text18"
+},
+{
+"t": "text",
+"n": "DortCinsF",
+"v": "E",
+"chk": false,
+"id": "Text19"
+},
+{
+"t": "text",
+"n": "BesCinsF",
+"v": "E",
+"chk": false,
+"id": "Text20"
+},
+{
+"t": "text",
+"n": "AnaCinsF",
+"v": "K",
+"chk": false,
+"id": "Text21"
+},
+{
+"t": "text",
+"n": "BabaCinsF",
+"v": "E",
+"chk": false,
+"id": "Text22"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox1",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox1"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox2",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox2"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox3",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox3"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox4",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox4"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox5",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox5"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox6",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox6"
+},
+{
+"t": "checkbox",
+"n": "YukCheckbox7",
+"v": "on",
+"chk": false,
+"id": "YukCheckbox7"
+},
+{
+"t": "text",
+"n": "EsSGKF",
+"v": "0,00",
+"chk": false,
+"id": "EsSGKF"
+},
+{
+"t": "text",
+"n": "BirSGKF",
+"v": "0,00",
+"chk": false,
+"id": "BirSGKF"
+},
+{
+"t": "text",
+"n": "IkiSGKF",
+"v": "0,00",
+"chk": false,
+"id": "IkiSGKF"
+},
+{
+"t": "text",
+"n": "UcSGKF",
+"v": "0,00",
+"chk": false,
+"id": "UcSGKF"
+},
+{
+"t": "text",
+"n": "DortSGKF",
+"v": "0,00",
+"chk": false,
+"id": "DortSGKF"
+},
+{
+"t": "text",
+"n": "BesSGKF",
+"v": "0,00",
+"chk": false,
+"id": "BesSGKF"
+},
+{
+"t": "text",
+"n": "AnaSGKF",
+"v": "0,00",
+"chk": false,
+"id": "AnaSGKF"
+},
+{
+"t": "text",
+"n": "BabaSGKF",
+"v": "0,00",
+"chk": false,
+"id": "BabaSGKF"
+},
+{
+"t": "text",
+"n": "EsPSDF",
+"v": "0,00",
+"chk": false,
+"id": "EsPSDF"
+},
+{
+"t": "text",
+"n": "BirPSDF",
+"v": "0,00",
+"chk": false,
+"id": "BirPSDF"
+},
+{
+"t": "text",
+"n": "IkiPSDF",
+"v": "0,00",
+"chk": false,
+"id": "IkiPSDF"
+},
+{
+"t": "text",
+"n": "UcPSDF",
+"v": "0,00",
+"chk": false,
+"id": "UcPSDF"
+},
+{
+"t": "text",
+"n": "DortPSDF",
+"v": "0,00",
+"chk": false,
+"id": "DortPSDF"
+},
+{
+"t": "text",
+"n": "BesPSDF",
+"v": "0,00",
+"chk": false,
+"id": "BesPSDF"
+},
+{
+"t": "text",
+"n": "AnaPSDF",
+"v": "0,00",
+"chk": false,
+"id": "AnaPSDF"
+},
+{
+"t": "text",
+"n": "BabaPSDF",
+"v": "0,00",
+"chk": false,
+"id": "BabaPSDF"
+},
+{
+"t": "text",
+"n": "gelbaslaF",
+"v": "1.01.1900",
+"chk": false,
+"id": "gelbaslaF"
+},
+{
+"t": "text",
+"n": "EsDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid"
+},
+{
+"t": "text",
+"n": "BirDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid1"
+},
+{
+"t": "text",
+"n": "IkiDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid2"
+},
+{
+"t": "text",
+"n": "UcDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid3"
+},
+{
+"t": "text",
+"n": "DortDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid4"
+},
+{
+"t": "text",
+"n": "BesDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid5"
+},
+{
+"t": "text",
+"n": "AnaDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid6"
+},
+{
+"t": "text",
+"n": "BabaDesTarF",
+"v": "1.01.1900",
+"chk": false,
+"id": "dessonid7"
+},
+{
+"t": "button",
+"n": "Reset",
+"v": "Formu Sýfýrla",
+"chk": false,
+"id": "Reset1"
+},
+{
+"t": "submit",
+"n": "Gonder",
+"v": "Tazminat Hesapla",
+"chk": false,
+"id": "Submit1"
+},
+{
+"t": "text",
+"n": "IsGorOranF",
+"v": "100,00",
+"chk": false,
+"id": "IsGucuText"
+},
+{
+"t": "text",
+"n": "KendiSGKF",
+"v": "0",
+"chk": false,
+"id": "KazalýGelirText"
+},
+{
+"t": "text",
+"n": "KendiPSDF",
+"v": "0",
+"chk": false,
+"id": "KazalýPSD"
+},
+{
+"t": "text",
+"n": "kazaligelbaslaF",
+"v": "1.01.1900",
+"chk": false,
+"id": "kazaligelbaslaF"
+},
+{
+"t": "checkbox",
+"n": "Checkboxgig",
+"v": "on",
+"chk": false,
+"id": "Checkboxgig"
+},
+{
+"t": "text",
+"n": "giggunF",
+"v": "0",
+"chk": false,
+"id": "gigguntext"
+},
+{
+"t": "text",
+"n": "kazaligigF",
+"v": "0",
+"chk": false,
+"id": "Kazaligig"
+},
+{
+"t": "checkbox",
+"n": "Checkboxbakici",
+"v": "on",
+"chk": false,
+"id": "Checkboxbakici"
+},
+{
+"t": "checkbox",
+"n": "Checkboxbakicinet",
+"v": "on",
+"chk": false,
+"id": "Checkboxbakicinet"
+},
+{
+"t": "text",
+"n": "bakicioranF",
+"v": "0",
+"chk": false,
+"id": "BakiciText"
+},
+{
+"t": "text",
+"n": "bakicigunF",
+"v": "0",
+"chk": false,
+"id": "bakiciguntext"
+},
+{
+"t": "radio",
+"n": "RadioGroup20",
+"v": "Radio20",
+"chk": true,
+"id": "Radio20"
+},
+{
+"t": "radio",
+"n": "RadioGroup20",
+"v": "Radio21",
+"chk": false,
+"id": "Radio21"
+},
+{
+"t": "checkbox",
+"n": "Checkboxihtimal",
+"v": "on",
+"chk": false,
+"id": "Checkboxihtimal"
+},
+{
+"t": "text",
+"n": "yetismaasF",
+"v": "0,00",
+"chk": false,
+"id": "yetismaasF"
+},
+{
+"t": "checkbox",
+"n": "Checkboxyetistirme",
+"v": "on",
+"chk": false,
+"id": "Checkboxyetistirme"
+},
+{
+"t": "checkbox",
+"n": "CheckboxyetistirmeAnne",
+"v": "on",
+"chk": false,
+"id": "CheckboxyetistirmeAnne"
+},
+{
+"t": "text",
+"n": "kardessayF",
+"v": "0",
+"chk": false,
+"id": "kardessaytext"
+},
+{
+"t": "text",
+"n": "erkekdessonF",
+"v": "18",
+"chk": false,
+"id": "ErkekDesText"
+},
+{
+"t": "text",
+"n": "kizdessonF",
+"v": "22",
+"chk": false,
+"id": "KizDesText"
+},
+{
+"t": "text",
+"n": "unidessonF",
+"v": "25",
+"chk": false,
+"id": "YukDesText"
+},
+{
+"t": "text",
+"n": "farazievlenmeF",
+"v": "0",
+"chk": false,
+"id": "farazievlenme"
+},
+{
+"t": "text",
+"n": "farazibirinciF",
+"v": "0",
+"chk": false,
+"id": "farazibirinci"
+},
+{
+"t": "text",
+"n": "faraziikinciF",
+"v": "0",
+"chk": false,
+"id": "faraziikinci"
+},
+{
+"t": "checkbox",
+"n": "Checkboxanababayari",
+"v": "on",
+"chk": false,
+"id": "Checkboxanababayari"
+},
+{
+"t": "checkbox",
+"n": "Checkboxanababa25yok",
+"v": "on",
+"chk": false,
+"id": "Checkboxanababa25yok"
+},
+{
+"t": "checkbox",
+"n": "Checkboxyenipaylasim",
+"v": "on",
+"chk": false,
+"id": "Checkboxyenipaylasim"
+},
+{
+"t": "text",
+"n": "artisoranF",
+"v": "10",
+"chk": false,
+"id": "ArtisText"
+},
+{
+"t": "text",
+"n": "iskontooranF",
+"v": "10",
+"chk": false,
+"id": "IskontoText"
+},
+{
+"t": "text",
+"n": "gelirbaslaF",
+"v": "18",
+"chk": false,
+"id": "GelirBasText"
+},
+{
+"t": "text",
+"n": "aktifdonsonF",
+"v": "60",
+"chk": false,
+"id": "AktifText"
+},
+{
+"t": "text",
+"n": "secenek1F",
+"v": "",
+"chk": false,
+"id": "PasifOranText"
+},
+{
+"t": "text",
+"n": "EmMaasF",
+"v": "28.075,50",
+"chk": false,
+"id": "Text8"
+},
+{
+"t": "checkbox",
+"n": "Checkboxgecdonraptar",
+"v": "on",
+"chk": false,
+"id": "Checkboxgecdonraptar"
+},
+{
+"t": "checkbox",
+"n": "Checkboxaylikbaz",
+"v": "on",
+"chk": false,
+"id": "Checkboxaylikbaz"
+},
+{
+"t": "checkbox",
+"n": "Checkboxgecdongercek",
+"v": "on",
+"chk": false,
+"id": "Checkboxgecdongercek"
+},
+{
+"t": "checkbox",
+"n": "CheckboxAskerDegil",
+"v": "on",
+"chk": false,
+"id": "CheckboxAskerDegil"
+},
+{
+"t": "text",
+"n": "askerlikyasiF",
+"v": "21",
+"chk": false,
+"id": "AskerlikYasiText"
+},
+{
+"t": "text",
+"n": "askersureF",
+"v": "6",
+"chk": false,
+"id": "AskerlikSureText"
+},
+{
+"t": "checkbox",
+"n": "CheckboxAgisiz",
+"v": "on",
+"chk": false,
+"id": "CheckboxAgisiz"
+},
+{
+"t": "checkbox",
+"n": "Checkboxagies",
+"v": "on",
+"chk": false,
+"id": "Checkboxagies"
+},
+{
+"t": "checkbox",
+"n": "CheckboxGVistisna",
+"v": "on",
+"chk": false,
+"id": "CheckboxGVistisna"
+},
+{
+"t": "checkbox",
+"n": "Checkboxyasyuvarla",
+"v": "on",
+"chk": false,
+"id": "Checkboxyasyuvarla"
+},
+{
+"t": "checkbox",
+"n": "Checkboxraptarhesapla",
+"v": "on",
+"chk": false,
+"id": "Checkboxraptarhesapla"
+},
+{
+"t": "text",
+"n": "faizbaslaF",
+"v": "1.01.2016",
+"chk": false,
+"id": "faizbaslaF"
+},
+{
+"t": "radio",
+"n": "RadioGroup30",
+"v": "Radio22",
+"chk": true,
+"id": "Radio22"
+},
+{
+"t": "radio",
+"n": "RadioGroup30",
+"v": "Radio23",
+"chk": false,
+"id": "Radio23"
+},
+{
+"t": "text",
+"n": "destekkullaniciF",
+"v": "",
+"chk": false,
+"id": "TextKullanici"
+},
+{
+"t": "password",
+"n": "desteksifreF",
+"v": "",
+"chk": false,
+"id": "TextSifre"
+},
+{
+"t": "checkbox",
+"n": "Checkboxhatirla",
+"v": "on",
+"chk": false,
+"id": "Checkboxhatirla"
+},
+{
+"t": "submit",
+"n": "Giris",
+"v": "Giriþ",
+"chk": false,
+"id": "Submit2"
+}
+]

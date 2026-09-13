@@ -1,0 +1,871 @@
+{
+  "_meta": {
+    "olusturma": "2026-09-13",
+    "kapsam": "faiz (yasal, avans), ZMSS kisi basi limitleri, yetistirme gideri",
+    "tarih_formati": "YYYY-MM-DD; her satir bir sonraki satirin baslangicina kadar gecerli"
+  },
+  "faiz": {
+    "yasal": [
+      {
+        "baslangic": "2004-07-01",
+        "oran": 38.0,
+        "not": "2005-01-01 itibariyle yururlukteki oran (01.07.2004-30.04.2005)"
+      },
+      {
+        "baslangic": "2005-05-01",
+        "oran": 12.0
+      },
+      {
+        "baslangic": "2006-01-01",
+        "oran": 9.0,
+        "not": "BKK 2005/9831 (19.12.2005)"
+      },
+      {
+        "baslangic": "2024-06-01",
+        "oran": 24.0,
+        "not": "CB Karari 8485, RG 21.05.2024/32552. DIKKAT: 01.05.2024 degil, 01.06.2024."
+      },
+      {
+        "baslangic": "2026-07-31",
+        "oran": 31.0,
+        "not": "7589 s.K. m.10 ile degisik 3095 m.1 (RG 31.07.2026/33326): onceki yil 31 Aralik TCMB reeskont oraninin %80'i = 38,75 x 0,80 = 31. Yil ortasi kurali: 30 Haziran reeskont orani 31 Aralik oranindan >=5 puan farkliysa ikinci yari 30 Haziran oraninin %80'i. Gecmis donemler geriye donuk yeniden hesaplanmaz."
+      }
+    ],
+    "avans": [
+      {
+        "baslangic": "2004-06-15",
+        "oran": 42.0
+      },
+      {
+        "baslangic": "2005-01-13",
+        "oran": 35.0
+      },
+      {
+        "baslangic": "2005-05-25",
+        "oran": 30.0
+      },
+      {
+        "baslangic": "2005-12-20",
+        "oran": 25.0
+      },
+      {
+        "baslangic": "2006-12-20",
+        "oran": 29.0
+      },
+      {
+        "baslangic": "2007-12-28",
+        "oran": 27.0
+      },
+      {
+        "baslangic": "2009-04-09",
+        "oran": 20.0
+      },
+      {
+        "baslangic": "2009-06-12",
+        "oran": 19.0
+      },
+      {
+        "baslangic": "2009-12-22",
+        "oran": 16.0
+      },
+      {
+        "baslangic": "2010-12-30",
+        "oran": 15.0
+      },
+      {
+        "baslangic": "2011-12-29",
+        "oran": 17.75
+      },
+      {
+        "baslangic": "2012-06-19",
+        "oran": 16.5
+      },
+      {
+        "baslangic": "2012-12-20",
+        "oran": 13.75
+      },
+      {
+        "baslangic": "2013-06-21",
+        "oran": 11.0
+      },
+      {
+        "baslangic": "2013-12-27",
+        "oran": 11.75
+      },
+      {
+        "baslangic": "2014-12-14",
+        "oran": 10.5
+      },
+      {
+        "baslangic": "2016-12-31",
+        "oran": 9.75
+      },
+      {
+        "baslangic": "2018-06-29",
+        "oran": 19.5
+      },
+      {
+        "baslangic": "2019-10-11",
+        "oran": 18.25
+      },
+      {
+        "baslangic": "2019-12-21",
+        "oran": 13.75
+      },
+      {
+        "baslangic": "2020-06-13",
+        "oran": 10.0
+      },
+      {
+        "baslangic": "2020-12-19",
+        "oran": 16.75
+      },
+      {
+        "baslangic": "2021-12-31",
+        "oran": 15.75
+      },
+      {
+        "baslangic": "2022-12-31",
+        "oran": 10.75
+      },
+      {
+        "baslangic": "2023-06-24",
+        "oran": 16.75
+      },
+      {
+        "baslangic": "2023-09-01",
+        "oran": 26.75
+      },
+      {
+        "baslangic": "2023-09-28",
+        "oran": 31.75
+      },
+      {
+        "baslangic": "2023-11-01",
+        "oran": 36.75
+      },
+      {
+        "baslangic": "2023-12-01",
+        "oran": 41.75
+      },
+      {
+        "baslangic": "2023-12-23",
+        "oran": 44.25
+      },
+      {
+        "baslangic": "2024-04-01",
+        "oran": 51.75
+      },
+      {
+        "baslangic": "2024-12-28",
+        "oran": 49.25
+      },
+      {
+        "baslangic": "2025-03-08",
+        "oran": 44.25
+      },
+      {
+        "baslangic": "2025-09-17",
+        "oran": 42.25
+      },
+      {
+        "baslangic": "2025-12-20",
+        "oran": 39.75
+      }
+    ],
+    "avans_3095_m2_donemsel": [
+      {
+        "baslangic": "2005-01-01",
+        "oran": 42.0
+      },
+      {
+        "baslangic": "2005-07-01",
+        "oran": 30.0
+      },
+      {
+        "baslangic": "2006-01-01",
+        "oran": 25.0
+      },
+      {
+        "baslangic": "2007-01-01",
+        "oran": 29.0
+      },
+      {
+        "baslangic": "2008-01-01",
+        "oran": 27.0
+      },
+      {
+        "baslangic": "2009-07-01",
+        "oran": 19.0
+      },
+      {
+        "baslangic": "2010-01-01",
+        "oran": 16.0
+      },
+      {
+        "baslangic": "2011-01-01",
+        "oran": 15.0
+      },
+      {
+        "baslangic": "2012-01-01",
+        "oran": 17.75
+      },
+      {
+        "baslangic": "2013-01-01",
+        "oran": 13.75
+      },
+      {
+        "baslangic": "2014-01-01",
+        "oran": 11.75
+      },
+      {
+        "baslangic": "2015-01-01",
+        "oran": 10.5
+      },
+      {
+        "baslangic": "2017-01-01",
+        "oran": 9.75
+      },
+      {
+        "baslangic": "2018-07-01",
+        "oran": 19.5
+      },
+      {
+        "baslangic": "2020-01-01",
+        "oran": 13.75
+      },
+      {
+        "baslangic": "2021-01-01",
+        "oran": 16.75
+      },
+      {
+        "baslangic": "2022-01-01",
+        "oran": 15.75
+      },
+      {
+        "baslangic": "2023-01-01",
+        "oran": 10.75
+      },
+      {
+        "baslangic": "2023-07-01",
+        "oran": 16.75
+      },
+      {
+        "baslangic": "2024-01-01",
+        "oran": 44.25
+      },
+      {
+        "baslangic": "2024-07-01",
+        "oran": 51.75
+      },
+      {
+        "baslangic": "2025-01-01",
+        "oran": 49.25
+      },
+      {
+        "baslangic": "2025-07-01",
+        "oran": 44.25
+      },
+      {
+        "baslangic": "2026-01-01",
+        "oran": 39.75
+      }
+    ],
+    "reeskont": [
+      {
+        "baslangic": "2004-06-15",
+        "oran": 38.0
+      },
+      {
+        "baslangic": "2005-01-13",
+        "oran": 32.0
+      },
+      {
+        "baslangic": "2005-05-25",
+        "oran": 28.0
+      },
+      {
+        "baslangic": "2005-12-20",
+        "oran": 23.0
+      },
+      {
+        "baslangic": "2006-12-20",
+        "oran": 27.0
+      },
+      {
+        "baslangic": "2007-12-28",
+        "oran": 25.0
+      },
+      {
+        "baslangic": "2009-04-09",
+        "oran": 19.0
+      },
+      {
+        "baslangic": "2009-06-12",
+        "oran": 18.0
+      },
+      {
+        "baslangic": "2009-12-22",
+        "oran": 15.0
+      },
+      {
+        "baslangic": "2010-12-30",
+        "oran": 14.0
+      },
+      {
+        "baslangic": "2011-12-29",
+        "oran": 17.0
+      },
+      {
+        "baslangic": "2012-06-19",
+        "oran": 16.0
+      },
+      {
+        "baslangic": "2012-12-20",
+        "oran": 13.5
+      },
+      {
+        "baslangic": "2013-06-21",
+        "oran": 9.5
+      },
+      {
+        "baslangic": "2013-12-27",
+        "oran": 10.25
+      },
+      {
+        "baslangic": "2014-12-14",
+        "oran": 9.0
+      },
+      {
+        "baslangic": "2016-12-31",
+        "oran": 8.75
+      },
+      {
+        "baslangic": "2018-06-29",
+        "oran": 18.5
+      },
+      {
+        "baslangic": "2019-10-11",
+        "oran": 17.25
+      },
+      {
+        "baslangic": "2019-12-21",
+        "oran": 12.75
+      },
+      {
+        "baslangic": "2020-06-13",
+        "oran": 9.0
+      },
+      {
+        "baslangic": "2020-12-19",
+        "oran": 15.75
+      },
+      {
+        "baslangic": "2021-12-31",
+        "oran": 14.75
+      },
+      {
+        "baslangic": "2022-12-31",
+        "oran": 9.75
+      },
+      {
+        "baslangic": "2023-06-24",
+        "oran": 15.75
+      },
+      {
+        "baslangic": "2023-09-01",
+        "oran": 25.75
+      },
+      {
+        "baslangic": "2023-09-28",
+        "oran": 30.75
+      },
+      {
+        "baslangic": "2023-11-01",
+        "oran": 35.75
+      },
+      {
+        "baslangic": "2023-12-01",
+        "oran": 40.75
+      },
+      {
+        "baslangic": "2023-12-23",
+        "oran": 43.25
+      },
+      {
+        "baslangic": "2024-04-01",
+        "oran": 50.75
+      },
+      {
+        "baslangic": "2024-12-28",
+        "oran": 48.25
+      },
+      {
+        "baslangic": "2025-03-08",
+        "oran": 43.25
+      },
+      {
+        "baslangic": "2025-09-17",
+        "oran": 41.25
+      },
+      {
+        "baslangic": "2025-12-20",
+        "oran": 38.75
+      }
+    ],
+    "aciklama": {
+      "yasal": "3095 s.K. m.1 kanuni faiz. 2004-07-01 satiri yalnizca 2005 basindaki oran icindir.",
+      "avans": "TCMB kisa vadeli avans islemleri faiz orani, TCMB'nin ilan ettigi yururluk tarihleriyle (ham seri). Hesaplayicilarin cogu 'avans faizi'nde bu seriyi kullanir.",
+      "avans_3095_m2_donemsel": "Ayni TCMB serisinden 3095 m.2/2 (ticari temerrut) kuraliyla uretilmis 6 aylik donemsel seri: Ocak-Haziran icin onceki 31 Aralik orani; 30 Haziran orani >=5 puan farkliysa Temmuz-Aralik icin 30 Haziran orani. 2005-2018 satirlari yargidunyasi.com tablosuyla birebir tutuyor. Hedef hesaplayici hangisini kullaniyor test edilmeli.",
+      "guncellik": "TCMB tablosunda 20.12.2025 (avans %39,75) sonrasi degisiklik yok (TCMB sayfasi ve finansanalitik.com, 13.09.2026 kontrol). 2026'da yeni TCMB ilani cikmis olabilir; resmi sayfadan tekrar kontrol edin."
+    },
+    "kaynaklar": [
+      "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Reeskont+ve+Avans+Faiz+Oranlari",
+      "https://finansanalitik.com/finansal-analiz-tcmb-reeskont-avans-faiz-oranlari",
+      "https://www.alomaliye.com/2025/12/20/reeskont-ve-avans-islemlerinde-uygulanacak-faiz-oranlarinin-tespiti-20-12-2025/",
+      "https://www.yargidunyasi.com/bilgihavuzu/faiz-oranlari.html",
+      "https://www.barobirlik.org.tr/Haberler/kanuni-faiz-oraninin-24-olarak-belirlenmesine-iliskin-karar-resmi-gazetede-yayimlanmistir-84793",
+      "https://www.harbiyehukuk.com/yasal-faiz-orani-nedir/",
+      "https://www.elci.av.tr/makale/yasal-faiz-orani-kac-oldu-yeni-duzenlemeyle-kanuni-faiz-yuzde-31-2026-182",
+      "https://handansayanozgul.av.tr/yasal-faiz-orani/",
+      "https://www.iltanekmekcioglu.com/kanuni-faiz-orani-2026-yeni-sistem-nasil-uygulanacak/ (DIKKAT: %31,80 diyor; avans oranini (39,75) baz almis, hatali)"
+    ]
+  },
+  "zmss": [
+    {
+      "baslangic": "2006-01-01",
+      "kisi_basi_olum_sakatlik": 57500,
+      "kaza_basi": 287500,
+      "guven": "tek kaynak"
+    },
+    {
+      "baslangic": "2007-01-01",
+      "kisi_basi_olum_sakatlik": 60000,
+      "kaza_basi": 300000,
+      "guven": "tek kaynak"
+    },
+    {
+      "baslangic": "2008-01-01",
+      "kisi_basi_olum_sakatlik": 100000,
+      "kaza_basi": 500000,
+      "guven": "tek kaynak"
+    },
+    {
+      "baslangic": "2009-01-01",
+      "kisi_basi_olum_sakatlik": 150000,
+      "kaza_basi": 750000,
+      "guven": "tek kaynak"
+    },
+    {
+      "baslangic": "2010-01-01",
+      "kisi_basi_olum_sakatlik": 175000,
+      "kaza_basi": 875000,
+      "not": "Tutar iki kaynakta ayni. Baslangic tarihinde celiski var: angorahukuk 01.01.2010, bienmesse 01.03.2010."
+    },
+    {
+      "baslangic": "2011-01-01",
+      "kisi_basi_olum_sakatlik": 200000,
+      "kaza_basi": 1000000
+    },
+    {
+      "baslangic": "2012-01-01",
+      "kisi_basi_olum_sakatlik": 225000,
+      "kaza_basi": 1125000
+    },
+    {
+      "baslangic": "2013-01-01",
+      "kisi_basi_olum_sakatlik": 250000,
+      "kaza_basi": 1250000
+    },
+    {
+      "baslangic": "2014-01-01",
+      "kisi_basi_olum_sakatlik": 268000,
+      "kaza_basi": 1340000
+    },
+    {
+      "baslangic": "2015-01-01",
+      "kisi_basi_olum_sakatlik": 290000,
+      "kaza_basi": 1450000
+    },
+    {
+      "baslangic": "2016-01-01",
+      "kisi_basi_olum_sakatlik": 310000,
+      "kaza_basi": 1550000
+    },
+    {
+      "baslangic": "2017-01-01",
+      "kisi_basi_olum_sakatlik": 330000,
+      "kaza_basi": 1650000
+    },
+    {
+      "baslangic": "2018-01-01",
+      "kisi_basi_olum_sakatlik": 360000,
+      "kaza_basi": 1800000
+    },
+    {
+      "baslangic": "2019-07-01",
+      "kisi_basi_olum_sakatlik": 390000,
+      "kaza_basi": 1950000,
+      "not": "01.01-30.06.2019 donemi 360.000 (2018 ile ayni). Yil ortasi artis yalniz angorahukuk tablosunda."
+    },
+    {
+      "baslangic": "2020-01-01",
+      "kisi_basi_olum_sakatlik": 410000,
+      "kaza_basi": 2050000
+    },
+    {
+      "baslangic": "2021-01-01",
+      "kisi_basi_olum_sakatlik": 430000,
+      "kaza_basi": 2150000
+    },
+    {
+      "baslangic": "2022-01-01",
+      "kisi_basi_olum_sakatlik": 500000,
+      "kaza_basi": 2500000
+    },
+    {
+      "baslangic": "2022-07-01",
+      "kisi_basi_olum_sakatlik": 1000000,
+      "kaza_basi": 5000000,
+      "not": "AA 18.05.2022: tum teminatlar %100 artirildi"
+    },
+    {
+      "baslangic": "2023-01-01",
+      "kisi_basi_olum_sakatlik": 1200000,
+      "kaza_basi": 6000000
+    },
+    {
+      "baslangic": "2024-01-01",
+      "kisi_basi_olum_sakatlik": 1800000,
+      "kaza_basi": 9000000
+    },
+    {
+      "baslangic": "2025-01-01",
+      "kisi_basi_olum_sakatlik": 2700000,
+      "kaza_basi": 13500000
+    },
+    {
+      "baslangic": "2026-01-01",
+      "kisi_basi_olum_sakatlik": 3600000,
+      "kaza_basi": 18000000
+    }
+  ],
+  "aciklama": "Otomobil/taksi limitleri. Kisi basi saglik gideri limiti her donemde olum-sakatlik limitine esit. Kaza basi = 5 x kisi basi. Minibus, otobus, kamyon, motosiklet vb. araclarin kaza basi limitleri farklidir. Uygulanacak limit, kaza tarihinde gecerli policenin baslangic tarihindeki limittir. 2010 oncesi satirlar ek bilgi olarak eklendi, tek kaynaga dayaniyor.",
+  "kaynaklar": [
+    "https://www.bienmesse.com/trafik-sigortasi-teminat-limitleri/ (2010-2018, 2023-2025 satirlari)",
+    "https://www.angorahukukdanismanlik.com/post/trafik-sigortas%C4%B1-teminat-limitleri-y%C4%B1llara-g%C3%B6re-2005-2025-zmms-teminat-limitleri (2006-2025, yil ortasi degisiklikleri)",
+    "https://www.cnnturk.com/ekonomi/zorunlu-trafik-sigortasinda-asgari-teminatlar-2021-ne-kadar-oldu-1713888 (2021: 430.000 -> 2022: 500.000)",
+    "https://www.aa.com.tr/tr/ekonomi/zorunlu-trafik-sigortasinda-teminatlar-yuzde-100-artirildi/2591078 (01.07.2022: 500.000 -> 1.000.000)",
+    "https://cozumavukatlik.org/zorunlu-trafik-sigortasi-teminat-limitleri/ (2025, 2026)",
+    "https://www.sigortam.net/arac-trafik-sigortasi-neleri-karsilar (2026)",
+    "SEDDK resmi sayfasi (https://www.seddk.gov.tr/tr/tuketici-kosesi/teminat-limitleri/trafik-sigortasi-limitleri) bu ortamdan erisilemedi (SSL hatasi); dogrulama icin elle kontrol onerilir."
+  ],
+  "yetistirme_gideri": {
+    "ozet": "Olen cocugun anne-babasina desteklik tazminati hesaplanirken Yargitay, cocugun 18 yasindan itibaren destek olacagini varsayar. Olay tarihinden destegin baslayacagi yasa (kural olarak 18) kadar anne-babanin yapmayacagi yetistirme giderleri tazminattan dusulur. 17. HD ve 4. HD'nin yerlesik 'daire ilkesi' soyledir: anne ve baba calisiyorsa her birinin tazminatindan ayri ayri asgari ucretin %5'i, anne calismiyorsa ve aile ekonomisine katkisi yoksa (ev hanimi) yalnizca babanin tazminatindan asgari ucretin %5'i dusulur; anneden yetistirme gideri dusulmez. Esas gelir asgari ucrettir (ebeveyn geliri degil). Hedef hesaplayici (ercanerdem.av.tr/destazhes_beta.asp) varsayilan olarak olay tarihinde bilinen AGI'siz net asgari ucreti (veya isaretliyse gelir vergisi istisnasi dusulmus asgari ucreti) aylik bazda kullanir; kullanici daha yuksek bir gelir girebilir. Oran varsayilan 5, en fazla 20. Kardes sayisina bagli bir oran kuralina Yargitay kararlarinda rastlanmadi; hesaplayicida alanin ic adi 'kardessayF' olsa da etiketi 'Toplam Yetistirme Gideri Orani'dir. Iskonto/artis ve yas yuvarlama ayrintisi kaynaklarda yok, hesaplayiciya karsi test edilmeli.",
+    "formuller": [
+      "A = yetistirme giderine esas aylik gelir (varsayilan: olay tarihinde bilinen AGI'siz net asgari ucret; hesaplayicida 'Yetistirme Giderine Esas Gelir' alani doluysa o deger)",
+      "r = oran (varsayilan 0,05; hesaplayici en fazla 0,20 kabul ediyor)",
+      "T0 = olay tarihi (hesaplayicida ucret baz tarihi); T1 = cocugun destek olmaya baslayacagi tarih = dogum tarihi + 18 yil (erkek/kiz farki yok; universite varsayiminda muhtemelen daha gec, dogrulanmadi)",
+      "n = T0 ile T1 arasindaki ay sayisi (hesaplayici notu: 'Bakici ve Yetistirme Gideri Aylik Ucret Uzerinden Hesaplanir')",
+      "YG_ebeveyn = A x r x n  (artis orani = iskonto orani = %10 varsayiminda gelecek donem artis ve iskonto birbirini goturur; farkliysa aylik akis artis ve iskonto ile peşin degere indirgenmeli)",
+      "Baba: Tazminat_baba_net = max(0, DestekZarari_baba - YG_ebeveyn)",
+      "Anne calisiyorsa: Tazminat_anne_net = max(0, DestekZarari_anne - YG_ebeveyn); anne calismiyorsa (CheckboxyetistirmeAnne isaretli): Tazminat_anne_net = DestekZarari_anne (indirim yok)",
+      "Siralama (tahmini): destek zarari hesaplanir, kusur indirimi uygulanir, sonra yetistirme gideri dusulur. Hesaplayici raporu anne/baba satirinda 'Yetistirme Gideri (-)' kalemini SGK PSD'den sonra ve TOPLAM'dan once gosteriyor. Kusurun YG'ye de uygulanip uygulanmadigi belirsiz, test edilmeli.",
+      "Yargitay 4. HD 01.03.2006 E.2006/1273 K.2006/2017: yetistirme gideri ile destek tazminati ayni tarihin verileriyle (ayni asgari ucret donemiyle) hesaplanmalidir."
+    ],
+    "yargitay_kararlari": [
+      {
+        "daire": "17. HD",
+        "esas": "2016/18683",
+        "karar": "2019/7868",
+        "tarih": "2019-06-26",
+        "alinti": "Kaza tarihinde 12 yaşında olan desteğin ölümü sebebi ile annenin çalışıyor olması halinde hem anne hem de baba yönünden hesaplanacak tazminattan, asgari ücretin %5'i oranında, annenin çalışmayıp aile ekonomisine katkısının bulunmadığının tespiti halinde ise, sadece baba yönünden hesaplanacak tazminattan asgari ücretin %5'i oranında yetiştirme giderinin indirilmesi gereklidir.",
+        "kaynak": "https://prohukuk.com/cocuk-icin-destekten-yoksun-kalma-tazminati-hesapla"
+      },
+      {
+        "daire": "17. HD",
+        "esas": "2019/2846",
+        "karar": "2020/3183",
+        "tarih": "2020-06-04",
+        "alinti": "Kaza tarihinde 12 yaşında olan desteğin ölümü sebebi ile annenin çalışıyor olması halinde hem anne hem de baba yönünden hesaplanacak tazminattan, asgari ücretin %5'i oranında... (ayni ilke)",
+        "kaynak": "https://prohukuk.com/cocuk-icin-destekten-yoksun-kalma-tazminati-hesapla"
+      },
+      {
+        "daire": "17. HD",
+        "esas": "2017/558",
+        "karar": "2019/9013",
+        "tarih": "2019-10-07",
+        "alinti": "Daire ilkelerine göre; anne ve baba çalışıyorsa anne ve babadan ayrı ayrı %5'er, anne çalışmıyorsa, sadece babadan %5 oranında yetiştirme gideri düşülmesi gerekmektedir.",
+        "kaynak": "https://prohukuk.com/cocuk-icin-destekten-yoksun-kalma-tazminati-hesapla",
+        "not": "Arama ozetinde ayni tarihli 17. HD 2017/1066 E. 2019/8977 K. de geciyor; numaralar ikincil kaynaktan, dogrulanmadi."
+      },
+      {
+        "daire": "4. HD",
+        "esas": "2022/6601",
+        "karar": "2022/10395",
+        "tarih": "2022-09-15",
+        "alinti": "Daire ilkelerine göre; anne ve baba çalışıyorsa anne ve babadan ayrı ayrı %5'er, anne çalışmıyorsa sadece babadan %5 oranında yetiştirme gideri düşülmesi gerektiği...",
+        "kaynak": "ercanerdem.av.tr/destazhes_beta.asp, 'Anne calismiyor' kutusunun aciklamasi (hedef hesaplayicinin dayandigi karar)"
+      },
+      {
+        "daire": "17. HD",
+        "esas": "2019/1802",
+        "karar": "2020/5535",
+        "tarih": "2020-10-13",
+        "alinti": "Dosya kapsamından düzenli bir işi ve geliri olmayan ve ev hanımı olduğu anlaşılan mütevveffa davacı anne için hesaplanan tazminattan yetiştirme gideri düşülmesi doğru olmadığından...",
+        "kaynak": "https://prohukuk.com/cocuk-icin-destekten-yoksun-kalma-tazminati-hesapla"
+      },
+      {
+        "daire": "17. HD",
+        "esas": "2018/5268",
+        "karar": "2020/3840",
+        "tarih": "2020-06-23",
+        "alinti": "Mahkemece Ev hanımı olan anneden yetiştirme gideri düşülmemesi gerektiği gözetilmeden eksik inceleme ile yazılı olduğu şekilde karar verilmesi doğru olmamış...",
+        "kaynak": "https://prohukuk.com/cocuk-icin-destekten-yoksun-kalma-tazminati-hesapla"
+      },
+      {
+        "daire": "17. HD",
+        "esas": "2017/4860",
+        "karar": "2019/10698",
+        "tarih": "2019-11-14",
+        "ozet": "Anne ev hanimiysa destek tazminatindan yetistirme gideri dusulmemeli (arama ozeti, metin gorulmedi)."
+      },
+      {
+        "daire": "4. HD",
+        "esas": "2006/1273",
+        "karar": "2006/2017",
+        "tarih": "2006-03-01",
+        "ozet": "Onceki bozma yetistirme giderlerinin anne-baba tazminatindan dusulmemesi gerekcesine dayaniyordu. Ilk derece mahkemesi destek tazminatini eski rapordan, yetistirme giderini rapor tarihindeki degerlerle alip talebi reddetmisti; Daire bunu bozdu. Iki kalem ayni tarihteki verilerle hesaplanmali.",
+        "kaynak": "http://www.tazminathukuku.com/yargitay-kararlari/destek-tazminati-konusunda-yargitay-kararlari.htm"
+      },
+      {
+        "daire": "4. HD",
+        "esas": "2006/8546",
+        "karar": "2007/7962",
+        "tarih": "2007-06-12",
+        "ozet": "Karsioy yazisinda aktariliyor: 10 yasindaki cocuk icin bilirkisi destek zararinin tamamen yetistirme giderleriyle karsilandigini (net sifir) hesaplamis; karsioy bunu hakkaniyete aykiri bulmus.",
+        "kaynak": "tazminathukuku.com (Ahmet Celik)"
+      },
+      {
+        "daire": "4. HD",
+        "esas": "-",
+        "karar": "1977/906",
+        "tarih": "1977-01-27",
+        "ozet": "Okula giden 8 yasindaki koy cocugu aileye yardim ve hizmet ettiginden 'bakim ve yetistirme giderleri' adi altinda indirim gerekmez (eski, istisnai).",
+        "kaynak": "tazminathukuku.com (Ahmet Celik)"
+      }
+    ],
+    "ornekler": [
+      {
+        "tur": "sayisal ornek (bilirkisi raporu, destek davasi degil)",
+        "aciklama": "Bursa 2. Asliye Hukuk: babalik disi cocuk icin yapilan bakim ve yetistirme gideri davasi (12.2014-08.2024, yaklasik 10 yil). Donemdeki asgari ucretler nominal olarak toplanmis (455.619,76 TL), iskonto uygulanmamis. %10 = 45.561,98 TL; %5 = 22.780,99 TL (aylik ortalama yaklasik 390 TL). Asgari ucretin %5/%10'u yonteminin sayisal uygulamasi.",
+        "kaynak": "https://www.nobetcigazete.com/bir-cocugun-10-yillik-bakim-masrafi-45-bin-tl-olarak-hesaplandi (19.11.2025)"
+      },
+      {
+        "tur": "sayisal ornek (karsi gorus, indirim yok)",
+        "aciklama": "Bilirkisi Ahmet Celik raporu (12.02.2013): 14.11.2011 kazada olen 17 yasindaki cocuk, surucu kusuru 7/8. Yetistirme gideri indirimi yapilmamis. Baba 67.540,48 TL, anne 90.666,98 TL, toplam 158.207,46 TL. Destek paylari 18 yastan once %25, sonra %12,5. Bu yontem Yargitay daire ilkesine aykiri; yalniz karsilastirma icin.",
+        "kaynak": "http://www.tazminathukuku.com (Ahmet Celik, olum ve bedensel zararlar nedeniyle tazminat hesaplari)"
+      },
+      {
+        "tur": "ornek hesap (varsayimsal; yontem gostermek icin)",
+        "aciklama": "Cocuk olay tarihinde 12 yas 0 ay: 18 yasa n = 72 ay. A = 22.104,67 TL (2025 net asgari ucret, dogrulanmadi), r = %5. YG = 22.104,67 x 0,05 x 72 = 79.576,81 TL. Anne calisiyorsa hem anneden hem babadan 79.576,81 TL; anne calismiyorsa yalniz babadan.",
+        "kaynak": "turetilmis"
+      }
+    ],
+    "hedef_hesaplayici_alanlari": {
+      "url": "https://www.ercanerdem.av.tr/destazhes_beta.asp",
+      "Checkboxyetistirme": "Kazali gelir kazanmaya baslamamissa ve yetistirme gideri hesaplanacaksa isaretlenir (girilen oran ve aylik gelir uzerinden)",
+      "CheckboxyetistirmeAnne": "Anne calismiyorsa ve anne icin yetistirme gideri hesaplanmayacaksa isaretlenir; dayanak 4. HD E.2022/6601 K.2022/10395",
+      "kardessayF": "Etiket: 'Toplam Yetistirme Gideri Oranini Yaziniz (Varsayilan 5, En Fazla 20)'. Aciklama: girilen orana gore cocuga ayrilmasi gereken yetistirme gideri payi hesaplanir; anne calismiyorsa yalniz baba icin. Formda varsayilan deger 0 gorunuyor; bos/0 ise 5 kabul ediliyor olabilir.",
+      "yetismaasF": "Yetistirme giderine esas gelir. 0 ise olay tarihinde bilinen AGI'siz asgari ucret (CheckboxGVistisna isaretliyse gelir vergisi istisnasi dusulmus asgari ucret). Net asgari ucretten yuksek bir gelir esas alinacaksa yazilir.",
+      "Checkboxaylikbaz": "Varsayilan: gecmis donem ve gecici is goremezlik gunluk ucretle, bakici ve yetistirme gideri aylik ucretle hesaplanir",
+      "rapor_ciktisi": "Anne ve Baba satirlarinda 'Yetistirme Gideri (-): X TL' kalemi; ayrica sayfada 'yetisdiv' ozet alani"
+    },
+    "belirsizlikler": [
+      "Oran her ebeveyn icin ayri %5 mi, yoksa toplam %5'in ikiye bolunmesi mi: Yargitay metinleri 'ayri ayri %5'er' diyor. Bir arama ozeti 'yarisinin dusulmesi' kuralindan bahsediyor, dogrulanamadi. Hesaplayici etiketi 'Toplam ... Orani' dedigi icin iki yorum da mumkun; test ile ayirt edin.",
+      "Bitis yasi: Yargitay destegin baslangicini 18 kabul ediyor. Universite varsayiminda (hesaplayicida 25) yetistirme gideri suresinin uzayip uzamadigi bilinmiyor.",
+      "Iskonto ve artis: gelecek aylar icin %10/%10 (net sifir) mi, rapor tarihine kadar gecmis donem gercek asgari ucretlerle mi hesaplaniyor, belirsiz. Hesaplayicinin tooltip'i 'olay tarihi itibariyle bilinen asgari ucret' diyor; bu tek bir sabit A'yi (artissiz) akla getiriyor.",
+      "Kusur indirimi YG'den once mi sonra mi: kaynak yok.",
+      "Kardes sayisi: oranin kardes sayisina bagli oldugunu gosteren Yargitay karari bulunamadi. Alan adi (kardessayF) eski bir surumun kardes sayisina gore bolme yaptigini dusundurebilir.",
+      "Karar numaralarinin cogu ikincil kaynaklardan (prohukuk, hesaplayici tooltip'i). Resmi metinler karararama.yargitay.gov.tr uzerinden dogrulanmadi."
+    ],
+    "kaynaklar": [
+      "https://www.ercanerdem.av.tr/destazhes_beta.asp (form alan aciklamalari)",
+      "https://prohukuk.com/cocuk-icin-destekten-yoksun-kalma-tazminati-hesapla",
+      "http://www.tazminathukuku.com/yargitay-kararlari/destek-tazminati-konusunda-yargitay-kararlari.htm",
+      "http://www.tazminathukuku.com/arastirma-yazilari/cocuklarin-ana-ve-babalarina-destekligi.htm",
+      "https://kadimhukuk.com.tr/makale/destekten-yoksun-kalma-tazminati/",
+      "https://www.capa.av.tr/destekten-yoksun-kalma-tazminati/",
+      "https://www.emsal.co/trafik-kazasindan-kaynaklanan-destekten-yoksun-kalma-... (17. HD 2016/18683 E., 2019/7868 K. ozeti; erisilemedi)",
+      "https://www.nobetcigazete.com/bir-cocugun-10-yillik-bakim-masrafi-45-bin-tl-olarak-hesaplandi"
+    ]
+  },
+  "yasal": [
+    {
+      "baslangic": "2004-07-01",
+      "oran": 38.0,
+      "not": "2005-01-01 itibariyle yururlukteki oran (01.07.2004-30.04.2005)"
+    },
+    {
+      "baslangic": "2005-05-01",
+      "oran": 12.0
+    },
+    {
+      "baslangic": "2006-01-01",
+      "oran": 9.0,
+      "not": "BKK 2005/9831 (19.12.2005)"
+    },
+    {
+      "baslangic": "2024-06-01",
+      "oran": 24.0,
+      "not": "CB Karari 8485, RG 21.05.2024/32552. DIKKAT: 01.05.2024 degil, 01.06.2024."
+    },
+    {
+      "baslangic": "2026-07-31",
+      "oran": 31.0,
+      "not": "7589 s.K. m.10 ile degisik 3095 m.1 (RG 31.07.2026/33326): onceki yil 31 Aralik TCMB reeskont oraninin %80'i = 38,75 x 0,80 = 31. Yil ortasi kurali: 30 Haziran reeskont orani 31 Aralik oranindan >=5 puan farkliysa ikinci yari 30 Haziran oraninin %80'i. Gecmis donemler geriye donuk yeniden hesaplanmaz."
+    }
+  ],
+  "avans": [
+    {
+      "baslangic": "2004-06-15",
+      "oran": 42.0
+    },
+    {
+      "baslangic": "2005-01-13",
+      "oran": 35.0
+    },
+    {
+      "baslangic": "2005-05-25",
+      "oran": 30.0
+    },
+    {
+      "baslangic": "2005-12-20",
+      "oran": 25.0
+    },
+    {
+      "baslangic": "2006-12-20",
+      "oran": 29.0
+    },
+    {
+      "baslangic": "2007-12-28",
+      "oran": 27.0
+    },
+    {
+      "baslangic": "2009-04-09",
+      "oran": 20.0
+    },
+    {
+      "baslangic": "2009-06-12",
+      "oran": 19.0
+    },
+    {
+      "baslangic": "2009-12-22",
+      "oran": 16.0
+    },
+    {
+      "baslangic": "2010-12-30",
+      "oran": 15.0
+    },
+    {
+      "baslangic": "2011-12-29",
+      "oran": 17.75
+    },
+    {
+      "baslangic": "2012-06-19",
+      "oran": 16.5
+    },
+    {
+      "baslangic": "2012-12-20",
+      "oran": 13.75
+    },
+    {
+      "baslangic": "2013-06-21",
+      "oran": 11.0
+    },
+    {
+      "baslangic": "2013-12-27",
+      "oran": 11.75
+    },
+    {
+      "baslangic": "2014-12-14",
+      "oran": 10.5
+    },
+    {
+      "baslangic": "2016-12-31",
+      "oran": 9.75
+    },
+    {
+      "baslangic": "2018-06-29",
+      "oran": 19.5
+    },
+    {
+      "baslangic": "2019-10-11",
+      "oran": 18.25
+    },
+    {
+      "baslangic": "2019-12-21",
+      "oran": 13.75
+    },
+    {
+      "baslangic": "2020-06-13",
+      "oran": 10.0
+    },
+    {
+      "baslangic": "2020-12-19",
+      "oran": 16.75
+    },
+    {
+      "baslangic": "2021-12-31",
+      "oran": 15.75
+    },
+    {
+      "baslangic": "2022-12-31",
+      "oran": 10.75
+    },
+    {
+      "baslangic": "2023-06-24",
+      "oran": 16.75
+    },
+    {
+      "baslangic": "2023-09-01",
+      "oran": 26.75
+    },
+    {
+      "baslangic": "2023-09-28",
+      "oran": 31.75
+    },
+    {
+      "baslangic": "2023-11-01",
+      "oran": 36.75
+    },
+    {
+      "baslangic": "2023-12-01",
+      "oran": 41.75
+    },
+    {
+      "baslangic": "2023-12-23",
+      "oran": 44.25
+    },
+    {
+      "baslangic": "2024-04-01",
+      "oran": 51.75
+    },
+    {
+      "baslangic": "2024-12-28",
+      "oran": 49.25
+    },
+    {
+      "baslangic": "2025-03-08",
+      "oran": 44.25
+    },
+    {
+      "baslangic": "2025-09-17",
+      "oran": 42.25
+    },
+    {
+      "baslangic": "2025-12-20",
+      "oran": 39.75
+    }
+  ]
+}

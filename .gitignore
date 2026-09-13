@@ -1,0 +1,19 @@
+# Yerel giriş bilgileri
+config/giris.local.php
+
+# Bağımlılıklar
+/vendor/
+
+# Canlı karşılaştırma: karşılaştırma sitesinden indirilen ham sayfalar ve istek önbellekleri
+tests/canli/cases/*.html
+tests/canli/cases/*.tmp
+tests/canli/r_*.html
+tests/canli/olcum_onbellek*.json
+tests/canli/__pycache__/
+
+# Editör / işletim sistemi
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

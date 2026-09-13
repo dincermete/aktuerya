@@ -1,0 +1,2296 @@
+{
+    "genel": {
+        "tutar": [
+            1074,
+            1074
+        ],
+        "sure": [
+            804,
+            804
+        ],
+        "destek": [
+            428,
+            428
+        ]
+    },
+    "vakalar": [
+        [
+            "01_base",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "02_aktuer",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "03_pmf",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "04_ayim",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "05_yetmis",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "06_trafik",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "07_isgucu",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "08_bekar",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "09_sadece_es",
+            {
+                "tutar": [
+                    6,
+                    6
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            "10_es_5cocuk",
+            {
+                "tutar": [
+                    13,
+                    13
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    8,
+                    8
+                ]
+            }
+        ],
+        [
+            "11_yuksek_ucret",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "12_eski_agi",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "13_eski_2019",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "14_gecdon_raptar",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "15_askerlik",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "16_anababa25yok",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "17_anababayari",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "18_evl_olay",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "19_raptar_omur",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "20_yas_yuvarla",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "21_artis12",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "22_psd_es",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "23_kadin_kazali",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "24_es_destek_sonu",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "25_yasli_kazali",
+            {
+                "tutar": [
+                    6,
+                    6
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            "27_isgucu_aktuer",
+            {
+                "tutar": [
+                    5,
+                    5
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "28_67cocuk",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "29_agisiz_eski",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "30_kusur100_cocuksuz_anababa",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "31_farazi_28",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "32_farazi_25",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "33_farazi_28_sadece_ana",
+            {
+                "tutar": [
+                    6,
+                    6
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            "34_askerlik_dus",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "35_askerlik_22_12",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "36_agi_es_calisiyor",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "37_aylik_baz",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "38_aylik_baz_eski",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "39_gv_istisna_agisiz",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "40_gv_istisna_base",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "41_gecdon_gercek_aktuer",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "42_gecdon_gercek_aktuer_eski",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "43_yeni_paylasim",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "44_yeni_paylasim_es_anababa",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "45_faiz_avans",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "46_faiz_bas_2025",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "47_teknik_faiz_3",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "48_tam_hayat",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "49_tam_hayat_isgucu",
+            {
+                "tutar": [
+                    5,
+                    5
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "50_cso",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "51_gatt",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "52_cso_aktuer",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "53_cso_isgucu",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "54_pmf_isgucu_aktuer",
+            {
+                "tutar": [
+                    5,
+                    5
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "55_gig",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "56_bakici",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "57_bakici_net",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "58_bakici_gun",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "59_kazali_sgk",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "60_kazali_psd",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "61_es_sgk",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "62_es_sgk_trafik",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "63_trafik_police",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "64_trafik_psd",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "65_ayim_essiz",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "66_ayim_es_1cocuk",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "67_ayim_es_anababa",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "68_ayim_es_5cocuk",
+            {
+                "tutar": [
+                    13,
+                    13
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    8,
+                    8
+                ]
+            }
+        ],
+        [
+            "69_yetmis_essiz",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "70_yetmis_es_anababa",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "71_yetmis_es_5cocuk",
+            {
+                "tutar": [
+                    13,
+                    13
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    8,
+                    8
+                ]
+            }
+        ],
+        [
+            "72_destek_sonu_yaslari",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "73_aktif_yaslari",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "74_pasif_gelir",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "75_iskonto_12",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "76_yetistirme_yok",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "77_yetistirme",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "78_yetistirme_anne",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "79_yetistirme_kardes",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "80_yetistirme_gelir",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "81_genc_farazi",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "82_isgucu_oran_trafik",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "83_es_sgk_tamsayi",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "84_es_sgk_2024",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "85_es_sgk_eski",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "86_kazali_sgk_tamsayi",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "87_yetistirme_oran5",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "88_yetistirme_oran20",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "89_yetistirme_oran20_anne",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "90_farazi_28_yasli_bekar",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "91_bakici_oransiz_85",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "92_gig_aylik_baz",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "93_faiz_bas_olay",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "94_kadin_bekar_farazi",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "95_askerlik_21_12",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "96_askerlik_21_3",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "97_askerlik_23_6",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "98_askerlik_isgucu",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "99_faiz_avans_2025",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "100_faiz_avans_2024",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "101_trafik_police_aktuer",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "102_trafik_police_2016_aktuer",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "103_isgucu_trafik_police_bakici",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "104_ayir_3cocuk_anababa",
+            {
+                "tutar": [
+                    11,
+                    11
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    6,
+                    6
+                ]
+            }
+        ],
+        [
+            "105_yetistirme_gelir",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "106_yetistirme_genc",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "107_yetistirme_tek_baba",
+            {
+                "tutar": [
+                    6,
+                    6
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            "108_ayir_es_2cocuk_ana",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "109_ayir_es_3cocuk_ana",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "110_ayir_essiz_2cocuk_ana",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "111_ayim_2cocuk",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "112_ayim_1cocuk",
+            {
+                "tutar": [
+                    6,
+                    6
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            "113_ayim_2cocuk_ana",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "114_ayim_anababa",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "115_yetmis_2cocuk",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "116_yetmis_2cocuk_ana",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "117_ayir_essiz_2cocuk_anababa",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "118_gig_gio_yok",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "119_gig_gio_5000",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "120_gig_365_gun",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "121_gig_uzun",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "122_gig_uzun_gio",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "123_yetmis_3cocuk",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "124_yetmis_1cocuk_ana",
+            {
+                "tutar": [
+                    7,
+                    7
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    2,
+                    2
+                ]
+            }
+        ],
+        [
+            "125_yetmis_1cocuk_anababa",
+            {
+                "tutar": [
+                    8,
+                    8
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    3,
+                    3
+                ]
+            }
+        ],
+        [
+            "126_yetmis_3cocuk_ana",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "127_yetmis_1cocuk",
+            {
+                "tutar": [
+                    6,
+                    6
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            "128_askerlik_isgucu_gelecek",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "129_askerlik_isgucu_12",
+            {
+                "tutar": [
+                    4,
+                    4
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            "130_yetmis_es_3cocuk_anababa",
+            {
+                "tutar": [
+                    11,
+                    11
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    6,
+                    6
+                ]
+            }
+        ],
+        [
+            "131_yetmis_es_4cocuk_anababa",
+            {
+                "tutar": [
+                    12,
+                    12
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    7,
+                    7
+                ]
+            }
+        ],
+        [
+            "132_yetmis_es_3cocuk_ana",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "133_yetmis_es_3cocuk",
+            {
+                "tutar": [
+                    9,
+                    9
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        [
+            "134_yetmis_3cocuk_anababa",
+            {
+                "tutar": [
+                    10,
+                    10
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    5,
+                    5
+                ]
+            }
+        ],
+        [
+            "135_yetmis_4cocuk_anababa",
+            {
+                "tutar": [
+                    11,
+                    11
+                ],
+                "sure": [
+                    6,
+                    6
+                ],
+                "destek": [
+                    6,
+                    6
+                ]
+            }
+        ]
+    ]
+}

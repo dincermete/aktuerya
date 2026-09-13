@@ -1,0 +1,14 @@
+{
+    "name": "meteh/destek-tazminati",
+    "description": "Destekten yoksun kalma ve iş gücü kaybı tazminatı hesap motoru",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DestekTazminat\\": "src/"
+        }
+    }
+}

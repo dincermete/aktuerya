@@ -1,0 +1,21 @@
+{
+    "mod": "destek",
+    "kazaTuru": "is",
+    "yontem": "progresif",
+    "tablo": "trh",
+    "paylastirma": "21",
+    "kazaliAdi": "Örnek Kazalı",
+    "kusur": 80,
+    "olayTarihi": "14.03.2023",
+    "dogumTarihi": "12.06.1989",
+    "cinsiyet": "E",
+    "raporTarihi": "13.09.2026",
+    "ucret": 0,
+    "hakSahipleri": {
+        "es": {"hesapla": true, "dogumTarihi": "03.02.1992", "cinsiyet": "K"},
+        "c1": {"hesapla": true, "ad": "Kız çocuk", "dogumTarihi": "01.09.2015", "cinsiyet": "K"},
+        "c2": {"hesapla": true, "ad": "Oğul", "dogumTarihi": "20.05.2019", "cinsiyet": "E", "yuksekOgrenim": true},
+        "ana": {"hesapla": true, "dogumTarihi": "10.04.1963"},
+        "baba": {"hesapla": true, "dogumTarihi": "02.11.1960"}
+    }
+}
